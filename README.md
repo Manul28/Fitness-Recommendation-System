@@ -7,10 +7,15 @@ This project aims to develop a personalized fitness recommendation system that c
 ## Key Features
 
 -> Data Collection: Collects user data including demographics, health metrics, fitness goals, and lifestyle preferences.
+
 -> Recommendation Engine: Utilizes collaborative filtering and content-based filtering algorithms to generate personalized recommendations.
+
 -> Privacy and Security: Employs federated learning, differential privacy, and encryption to protect sensitive user data.
+
 -> Cultural Adaptation: Incorporates popular Indian fitness activities and dietary options, and supports multiple Indian languages.
+
 -> User Engagement: Features gamification, challenges, and social support to motivate users to stick to their fitness plans.
+
 -> Technical Implementation: Leverages Python, Streamlit, and machine learning libraries for development and deployment.
 
 ## Technical Details
